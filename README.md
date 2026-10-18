@@ -1,0 +1,3 @@
+AI use declaration
+
+I used Claude as an artificial intelligence assistant during the laboratory work. I used it to understand the instructions for the laboratory work and the key concepts, such as tokens, temperature, top-p, and attention. I also asked it to help me write and translate my short answers and predictions. I ran all the code myself in Google Colab. I read the answers and compared them with my results before submitting the work.
